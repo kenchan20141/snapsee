@@ -1,6 +1,6 @@
 {
   "name": "拍圖查詢",
-  "short_name": "拍圖查音",
+  "short_name": "拍圖查詢",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
